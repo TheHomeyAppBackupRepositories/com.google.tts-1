@@ -1,0 +1,1 @@
+This app will cast a given text of maximal 200 characters to a Google cast device or broadcast the text to all devices. A high number of languages are supported. The action flow allows you to not cast to muted devices or to a group of cast devices like a Nest Mini stereo pair.
